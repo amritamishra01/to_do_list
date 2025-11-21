@@ -86,34 +86,6 @@ JWT Authentication
 
 Bcrypt Password Hashing
 
-📁 Folder Structure
-project2/
-│── backend/
-│   ├── src/
-│   │   ├── models/
-│   │   │   ├── User.js
-│   │   │   ├── Task.js
-│   │   ├── routes/
-│   │   │   ├── auth.js
-│   │   │   ├── tasks.js
-│   │   ├── middleware/auth.js
-│   │   ├── server.js
-│   ├── package.json
-│
-│── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── api/
-│   │   ├── App.js
-│   ├── public/
-│   ├── tailwind.config.js
-│   ├── postcss.config.js
-│   ├── package.json
-│
-└── README.md
-
 ⚙️ How to Run the Project Locally
 1️⃣ Clone the Repository
 git clone https://github.com/amritamishra01/to_do_list.git
